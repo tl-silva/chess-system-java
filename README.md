@@ -1,6 +1,6 @@
 <h1 align="center">♟️ Chess System ♟️ </h1>
 
-<h3 align="center">Um sistema de jogo de xadrez</h3>
+<h3 align="center">Um Sistema de Jogo de Xadrez</h3>
 
 <p align="center">
   <img width="250" src="assets/readme/chess-system.gif" />
@@ -35,7 +35,7 @@ Com o apoio da sua IDE escolhida faça o download do projeto aqui no git, na op�
 Importe o projeto em:
 
 ```
-File > Import > General > Existing Projects into Workspace > [Pasta com projeto local] > chess-system > finish
+File > Import > General > Existing Projects into Workspace > [Projeto baixado] > chess-system > finish
 ```
 
 Localize a pasta local do projeto no seu computador e abra a pasta bin:
