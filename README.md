@@ -35,7 +35,7 @@ Com o apoio da sua IDE escolhida faça o download do projeto aqui no git, na op�
 Importe o projeto em:
 
 ```
-File > Import > General > Existing Projects into Workspace > [Projeto baixado] > chess-system > finish
+File > Import > General > Existing Projects into Workspace > Projeto baixado > chess-system > finish
 ```
 
 Localize a pasta local do projeto no seu computador e abra a pasta bin:
@@ -47,7 +47,7 @@ chess-system > bin >  Abrir no Terminal (Lado direito do mouse)
 Depois, digite o seguinte comando no terminal para iniciar a aplicação:
 
 ```
- > java application/Program
+java application/Program
 ```
 
 É normal cada terminal ter suas cores características, o terminal utilizado do GitBash oferece uma opção variada de cores para tornar a interface de peças inimigas mais diferenciável.
